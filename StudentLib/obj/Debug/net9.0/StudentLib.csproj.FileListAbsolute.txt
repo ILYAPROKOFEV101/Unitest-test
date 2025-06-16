@@ -1,0 +1,11 @@
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/bin/Debug/net9.0/StudentLib.deps.json
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/bin/Debug/net9.0/StudentLib.dll
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/bin/Debug/net9.0/StudentLib.pdb
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/StudentLib.AssemblyInfoInputs.cache
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/StudentLib.AssemblyInfo.cs
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/StudentLib.csproj.CoreCompileInputs.cache
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/StudentLib.dll
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/refint/StudentLib.dll
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/StudentLib.pdb
+/Users/ilyaprokofev/RiderProjects/StudentLib/StudentLib/obj/Debug/net9.0/ref/StudentLib.dll
