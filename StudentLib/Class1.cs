@@ -29,22 +29,19 @@ namespace StudentLib
 
             if (Name.Length < 2 || Name.Length > 15)
                 return false;
-            
-            if(!char.IsUpper(Name[0]))
+    
+            if (!char.IsUpper(Name[0]))
                 return false;
 
             int digitCount = 0;
             foreach (char c in Name)
             {
-               
-                if (!char.IsLetterOrDigit(c))
+                // Проверяем только английские буквы и цифры
+                if (!(char.IsAsciiLetterLower(c) || char.IsAsciiLetterUpper(c) || char.IsDigit(c)))
                     return false;
-                
-                if( char.IsDigit(c))
+        
+                if (char.IsDigit(c))
                     digitCount++;
-                
-                if(!char.IsAsciiLetterLower(c) && !char.IsAsciiLetterUpper(c) && !char.IsDigit(c))
-                    return false;
             }
                 
             return digitCount == 1;
